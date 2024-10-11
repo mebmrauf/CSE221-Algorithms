@@ -7,7 +7,8 @@ geekforgeeks: https://www.geeksforgeeks.org/learn-data-structures-and-algorithms
 
 # Playlist
 
-Abdul Bari - https://www.youtube.com/playlist?list=PL4I0SiHiQL1J4cO9mCtuB2k5UTGqrbjSq
+Abdul Bari -
+https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&si=swT2Kj6ozLIpKAvz
 
 RAK - https://www.youtube.com/playlist?list=PLkqsZdV3LRJQvxkJ7zN8n72X5LMXUY0wl
 
