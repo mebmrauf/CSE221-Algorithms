@@ -18,6 +18,9 @@ FHZ - https://www.youtube.com/playlist?list=PL55iLWsFacBFoOQOyL6naDIdXuuM8fO6c
 
 Algorithms Summer 2021 Lectures - https://www.youtube.com/playlist?list=PLPFDgD6kUaiRCGxuHu3GWhFHCKFTnnZV0
 
+Sorting Algos by Jenny -
+https://youtube.com/playlist?list=PLuZ_bd9XlByzTIP5j1aWXo7smCIxvzd2D&si=JGqjd0wZbsku_MuH
+
 Mixed Lectures - 
 
 https://www.youtube.com/playlist?list=PL4RvX5P5aXdN-BAvAgSrJPfn06QXw1MhJ
