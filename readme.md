@@ -2,6 +2,13 @@
 
 <p>The study of efficient algorithms and effective algorithm design techniques. Techniques for analysis of algorithms, Methods for the design of efficient algorithms :Divide and Conquer paradigm, Greedy method, Dynamic programming, Backtracking, Basic search and traversal techniques, Graph algorithms, Elementary parallel algorithms, Algebraic simplification and transformations, Lower bound theory, NP-hard and NP-complete problems. Techniques for the design and analysis of efficient algorithms, Emphasising methods useful in practice. sorting; Data structures for sets: Heaps, Hashing; Graph algorithms: Shortest paths, Depth-first search, Network flow, Computational geometry; Integer arithmetic: gcd, primality; polynomial and matrix calculations; amortised analysis; Performance bounds, asymptotic and analysis, worst case and average case behaviour, correctness and complexity. Particular classes of algorithms such as sorting and searching are studied in detail.</p>
 
+# Course Objectives
+
+a. Introduce students to time and space complexity of algorithms.
+
+b. Teach students different sorting and searching methods and make them understand which is effective to use.
+
+c. Make them familiar with different problem solving paradigms as described in the course catalog above.
 
 <h1>To learn more:</h1>
 
